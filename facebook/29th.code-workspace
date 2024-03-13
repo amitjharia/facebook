@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../29th"
+		},
+		{
+			"path": "../../28th"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "facebook"
+	}
+}
